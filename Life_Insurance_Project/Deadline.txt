@@ -1,0 +1,8 @@
+Deadline table:
+
+Week 1 : Getting the data, clean it and remove NA values
+Week 2 : Test multiple machine learnings methods on train and test samples
+Week 3 : Evaluation method creation and first results
+Week 4 : Improvement on results and final changes
+Week 5 : Preparation for final demo
+Week 6-7-8 : Final demo
